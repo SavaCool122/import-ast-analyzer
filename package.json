@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@vue/compiler-dom": "^3.2.37",
+    "acorn": "^8.8.0",
+    "prettier": "^2.7.1"
+  }
+}
