@@ -1,4 +1,4 @@
-# Ast analyzer of imports in Vue.js project
+# AST analyzer of imports in Vue.js project
 
 ## Quick Start
 
